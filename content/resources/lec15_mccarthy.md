@@ -4,8 +4,13 @@ description: 'Slides for lecture presentation. Presentation courtesy of Dan McCa
   This summary presentation is based on: Ho, Teck-Hua, Sergei Savin, and Christian
   Terwiesch. "Managing Demand and Sales Dynamics in New Product Diffusion Under Supply
   Constraint." Management Science 48, no. 2 (2002): 187-206.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-764-the-theory-of-operations-management-spring-2004/d379027fee44b8855a085278dfab8890_lec15_mccarthy.pdf
+file: /media/courses/15-764-the-theory-of-operations-management-spring-2004/d379027fee44b8855a085278dfab8890_lec15_mccarthy.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec15_mccarthy.pdf
 uid: d379027f-ee44-b885-5a08-5278dfab8890
