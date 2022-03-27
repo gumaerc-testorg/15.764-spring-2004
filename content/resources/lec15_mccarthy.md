@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6a329ba4-c7df-c260-e7df-de3f9113a5e2
 resourcetype: Document
 title: lec15_mccarthy.pdf
 uid: d379027f-ee44-b885-5a08-5278dfab8890

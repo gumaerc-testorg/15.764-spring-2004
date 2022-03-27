@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6a329ba4-c7df-c260-e7df-de3f9113a5e2
 resourcetype: Document
 title: lec10_jiang.pdf
 uid: 9a87f848-dbc0-5588-d17a-cbeef67a84d7

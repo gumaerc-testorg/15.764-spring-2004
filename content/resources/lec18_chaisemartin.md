@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6a329ba4-c7df-c260-e7df-de3f9113a5e2
 resourcetype: Document
 title: lec18_chaisemartin.pdf
 uid: ee2c731d-14d4-cd06-65a2-0b6632d86151

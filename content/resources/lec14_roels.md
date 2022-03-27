@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6a329ba4-c7df-c260-e7df-de3f9113a5e2
 resourcetype: Document
 title: lec14_roels.pdf
 uid: 78850d01-9ec6-5099-02c5-043c1d8c0184

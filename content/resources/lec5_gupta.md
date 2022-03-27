@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6a329ba4-c7df-c260-e7df-de3f9113a5e2
 resourcetype: Document
 title: lec5_gupta.pdf
 uid: c4939fec-8dd1-a833-ad8c-3864f449b8a5
