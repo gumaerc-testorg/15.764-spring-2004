@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 6a329ba4-c7df-c260-e7df-de3f9113a5e2
 ---
@@ -46,7 +50,7 @@ Organizational Session: In this first class the professor will provide a preview
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Presentation courtesy of Tor Schoenmeyr. Used with permission ([PDF]({{< baseurl >}}/resources/lec2_schoenmeyr)). This summary presentation is based on: Eppen, Gary, and Linus Schrage. "Centralized Ordering Policies in a Multi-Warehouse System with Lead times and Random Demand." _TIMS Studies in the Management Sciences_. Vol. 16, _Multi-Level Production/Inventory Control Systems, Theory and Practice_ , edited by Leroy B. Schwarz. Amsterdam: North-Holland, 1981.
+Presentation courtesy of Tor Schoenmeyr. Used with permission ({{% resource_link 9ad75f5f-5d32-af5f-9e85-e872fc1efd66 "PDF" %}}). This summary presentation is based on: Eppen, Gary, and Linus Schrage. "Centralized Ordering Policies in a Multi-Warehouse System with Lead times and Random Demand." _TIMS Studies in the Management Sciences_. Vol. 16, _Multi-Level Production/Inventory Control Systems, Theory and Practice_ , edited by Leroy B. Schwarz. Amsterdam: North-Holland, 1981.
 {{< tdclose >}}
 {{< tdopen >}}
 Tor Schoenmeyr
@@ -58,7 +62,7 @@ Tor Schoenmeyr
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Presentation courtesy of Hongmin Li. Used with permission ([PDF]({{< baseurl >}}/resources/lec3_li)). This summary presentation is based on: Graves, Stephen. "A Multi-Echelon Inventory Model for a Repairable Item with One-for-One Replenishment." _Management Science_ 31, no. 10 (1985).
+Presentation courtesy of Hongmin Li. Used with permission ({{% resource_link 2d3bd77e-9f45-172d-711f-8d1ec2aa4c63 "PDF" %}}). This summary presentation is based on: Graves, Stephen. "A Multi-Echelon Inventory Model for a Repairable Item with One-for-One Replenishment." _Management Science_ 31, no. 10 (1985).
 {{< tdclose >}}
 {{< tdopen >}}
 Hongmin Li
@@ -88,7 +92,7 @@ Riadh Alimi
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Presentation courtesy of Shobhit Gupta. Used with permission ([PDF]({{< baseurl >}}/resources/lec5_gupta)). This summary presentation is based on: Rosling, K. "Optimal Inventory Policies for Assembly Systems Under Random Demand." _Operations Research_ 43, no. 6 (1989).
+Presentation courtesy of Shobhit Gupta. Used with permission ({{% resource_link c4939fec-8dd1-a833-ad8c-3864f449b8a5 "PDF" %}}). This summary presentation is based on: Rosling, K. "Optimal Inventory Policies for Assembly Systems Under Random Demand." _Operations Research_ 43, no. 6 (1989).
 {{< tdclose >}}
 {{< tdopen >}}
 Shobhit Gupta
@@ -112,7 +116,7 @@ Theophane Weber
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Presentation ([PDF]({{< baseurl >}}/resources/lec7_xu)). This summary presentation is based on: Lu, Yingdong, and Jing-Sheng Song. "Order-Based Cost Optimization in Assemble-to-Order Systems." 2003. To appear in _Operations Research_ .
+Presentation ({{% resource_link 7e65b5f6-7ebd-b735-f55d-984413f56b84 "PDF" %}}). This summary presentation is based on: Lu, Yingdong, and Jing-Sheng Song. "Order-Based Cost Optimization in Assemble-to-Order Systems." 2003. To appear in _Operations Research_ .
 {{< tdclose >}}
 {{< tdopen >}}
 Ping Xu
@@ -124,7 +128,7 @@ Ping Xu
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Presentation courtesy of Nicolas Miegeville. Used with permission ([PDF]({{< baseurl >}}/resources/lec8_miegeville)). This summary presentation is based on: Wang, Y., and P. Glasserman. "Lead-time Inventory Trade-offs in Assemble-to-Order Systems." _Operations Research_ 43, no. 6 (1998).
+Presentation courtesy of Nicolas Miegeville. Used with permission ({{% resource_link 61f32ad8-ac1b-cdeb-e34c-9bdbfdaff2ec "PDF" %}}). This summary presentation is based on: Wang, Y., and P. Glasserman. "Lead-time Inventory Trade-offs in Assemble-to-Order Systems." _Operations Research_ 43, no. 6 (1998).
 {{< tdclose >}}
 {{< tdopen >}}
 Nicolas Miegeville
@@ -136,7 +140,7 @@ Nicolas Miegeville
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Presentation ([PDF]({{< baseurl >}}/resources/lec9_xu)). This summary presentation is based on: Plambeck, Erica, and Amy Ward. "Optimal Control of High-Volume Assemble-to-Order Systems." Stanford, CA: Stanford University, 2003.
+Presentation ({{% resource_link 0386ed9a-3bf8-3913-01f3-91ac2c719fc3 "PDF" %}}). This summary presentation is based on: Plambeck, Erica, and Amy Ward. "Optimal Control of High-Volume Assemble-to-Order Systems." Stanford, CA: Stanford University, 2003.
 {{< tdclose >}}
 {{< tdopen >}}
 Ping Xu
@@ -154,7 +158,7 @@ Ping Xu
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Presentation courtesy of Kai Jiang. Used with permission ([PDF]({{< baseurl >}}/resources/lec10_jiang)). This summary presentation is based on: Heath, D. C., and P. L. Jackson. "Modeling the Evolution of Demand Forecasts with Application to Safety Stock Analysis in Production/Distribution Systems." _IIE Transactions_ 26, no. 3 (1994): 17-30.
+Presentation courtesy of Kai Jiang. Used with permission ({{% resource_link 9a87f848-dbc0-5588-d17a-cbeef67a84d7 "PDF" %}}). This summary presentation is based on: Heath, D. C., and P. L. Jackson. "Modeling the Evolution of Demand Forecasts with Application to Safety Stock Analysis in Production/Distribution Systems." _IIE Transactions_ 26, no. 3 (1994): 17-30.
 {{< tdclose >}}
 {{< tdopen >}}
 Kai Jiang
@@ -166,7 +170,7 @@ Kai Jiang
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Presentation courtesy of Nicolas Miegeville. Used with permission ([PDF]({{< baseurl >}}/resources/lec11_miegeville)). This summary presentation is based on: Graves, Stephen, D. B. Kletter, and W. B. Hetzel. "A Dynamic Model for Requirements Planning with Application to Supply Chain Optimization." _Operations Research_ 46, supp. no. 3 (1998): S35-49.
+Presentation courtesy of Nicolas Miegeville. Used with permission ({{% resource_link e012d463-c636-06ca-72b5-18425ae03e9f "PDF" %}}). This summary presentation is based on: Graves, Stephen, D. B. Kletter, and W. B. Hetzel. "A Dynamic Model for Requirements Planning with Application to Supply Chain Optimization." _Operations Research_ 46, supp. no. 3 (1998): S35-49.
 {{< tdclose >}}
 {{< tdopen >}}
 Nicolas Miegeville
@@ -178,7 +182,7 @@ Nicolas Miegeville
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Presentation courtesy of Guillaume Roels. Used with permission ([PDF]({{< baseurl >}}/resources/lec12_roels)). This summary presentation is based on: Toktay, Beryl L., and Lawrence M. Wein. "Analysis of a Forecasting-Production-Inventory System with Stationary Demand." _Management Science_ 47, no. 9 (2001): 1268-81.
+Presentation courtesy of Guillaume Roels. Used with permission ({{% resource_link 9593015c-8b07-d9b1-e190-3d17e68fcb55 "PDF" %}}). This summary presentation is based on: Toktay, Beryl L., and Lawrence M. Wein. "Analysis of a Forecasting-Production-Inventory System with Stationary Demand." _Management Science_ 47, no. 9 (2001): 1268-81.
 {{< tdclose >}}
 {{< tdopen >}}
 Guillaume Roels
@@ -196,7 +200,7 @@ Guillaume Roels
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Presentation courtesy of Hongmin Li. Used with permission ([PDF]({{< baseurl >}}/resources/lec13_li)). This summary presentation is based on: Fisher, Marshall, and A. Raman. "Reducing the Cost of Demand Uncertainty Through Accurate Response to Early Sales." _Operations Research_ 44, no. 1 (1996): 87-99.
+Presentation courtesy of Hongmin Li. Used with permission ({{% resource_link 22614753-653b-00fe-85df-de4f6465850b "PDF" %}}). This summary presentation is based on: Fisher, Marshall, and A. Raman. "Reducing the Cost of Demand Uncertainty Through Accurate Response to Early Sales." _Operations Research_ 44, no. 1 (1996): 87-99.
 {{< tdclose >}}
 {{< tdopen >}}
 Hongmin Li
@@ -208,7 +212,7 @@ Hongmin Li
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Presentation courtesy of Guillaume Roels. Used with permission ([PDF]({{< baseurl >}}/resources/lec14_roels)). This summary presentation is based on: Kurawarwala, A., and H. Matsuo. "Forecasting and Inventory Management of Short Life-Cycle Products." _Operations Research_ 44, no. 1 (1996): 131-50.
+Presentation courtesy of Guillaume Roels. Used with permission ({{% resource_link 78850d01-9ec6-5099-02c5-043c1d8c0184 "PDF" %}}). This summary presentation is based on: Kurawarwala, A., and H. Matsuo. "Forecasting and Inventory Management of Short Life-Cycle Products." _Operations Research_ 44, no. 1 (1996): 131-50.
 {{< tdclose >}}
 {{< tdopen >}}
 Guillaume Roels
@@ -220,7 +224,7 @@ Guillaume Roels
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Presentation courtesy of Dan McCarthy. Used with permission ([PDF]({{< baseurl >}}/resources/lec15_mccarthy)). This summary presentation is based on: Ho, Teck-Hua, Sergei Savin, and Christian Terwiesch. "Managing Demand and Sales Dynamics in New Product Diffusion Under Supply Constraint." _Management Science_ 48, no. 2 (2002): 187-206.
+Presentation courtesy of Dan McCarthy. Used with permission ({{% resource_link d379027f-ee44-b885-5a08-5278dfab8890 "PDF" %}}). This summary presentation is based on: Ho, Teck-Hua, Sergei Savin, and Christian Terwiesch. "Managing Demand and Sales Dynamics in New Product Diffusion Under Supply Constraint." _Management Science_ 48, no. 2 (2002): 187-206.
 {{< tdclose >}}
 {{< tdopen >}}
 Dan McCarthy
@@ -232,7 +236,7 @@ Dan McCarthy
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Presentation courtesy of Adrien de Chaisemartin. Used with permission ([PDF]({{< baseurl >}}/resources/lec16_chaisemartin)). This summary presentation is based on: Fisher, Marshall, and Kumar Rajaram. "Accurate Retail Testing of Fashion Merchandise: Methodology and Application." _Marketing Science_ 19, no. 3 (2000): 266-78.
+Presentation courtesy of Adrien de Chaisemartin. Used with permission ({{% resource_link 0d0ff808-d8dd-8236-b961-4d116c0d0696 "PDF" %}}). This summary presentation is based on: Fisher, Marshall, and Kumar Rajaram. "Accurate Retail Testing of Fashion Merchandise: Methodology and Application." _Marketing Science_ 19, no. 3 (2000): 266-78.
 {{< tdclose >}}
 {{< tdopen >}}
 Adrien de Chaisemartin
@@ -250,7 +254,7 @@ Adrien de Chaisemartin
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Presentation courtesy of Felipe Caro. Used with permission ([PDF]({{< baseurl >}}/resources/lec17_caro)). This summary presentation is based on: Mahajan, Siddharth, and Garrett van Ryzin. "Stocking Retail Assortments Under Dynamic Consumer Substitution." _Operations Research_ 49, no. 3 (2001): 334-51.
+Presentation courtesy of Felipe Caro. Used with permission ({{% resource_link 8d0b6f2a-a6ff-ee9f-1ee3-20be2953a653 "PDF" %}}). This summary presentation is based on: Mahajan, Siddharth, and Garrett van Ryzin. "Stocking Retail Assortments Under Dynamic Consumer Substitution." _Operations Research_ 49, no. 3 (2001): 334-51.
 {{< tdclose >}}
 {{< tdopen >}}
 Felipe Caro
@@ -262,7 +266,7 @@ Felipe Caro
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Presentation courtesy of Adrien de Chaisemartin. Used with permission ([PDF]({{< baseurl >}}/resources/lec18_chaisemartin)). This summary presentation is based on: Bitran, Gabriel, P. Rocha e Oliveira, and A. Schilkrut. "Managing Customer Relationships Through Price and Service Quality." Cambridge, MA: MIT Sloan School of Management, 2003.
+Presentation courtesy of Adrien de Chaisemartin. Used with permission ({{% resource_link ee2c731d-14d4-cd06-65a2-0b6632d86151 "PDF" %}}). This summary presentation is based on: Bitran, Gabriel, P. Rocha e Oliveira, and A. Schilkrut. "Managing Customer Relationships Through Price and Service Quality." Cambridge, MA: MIT Sloan School of Management, 2003.
 {{< tdclose >}}
 {{< tdopen >}}
 Adrien de Chaisemartin
@@ -292,7 +296,7 @@ Bhuwan Singh
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Presentation courtesy of Huanran Wang. Used with permission ([PDF]({{< baseurl >}}/resources/lec20_wang)). This summary presentation is based on: Whitt, Ward. "Improving Service by Informing Customers About Anticipated Delays." _Management Science_ 45, no. 2 (1999): 192-207.
+Presentation courtesy of Huanran Wang. Used with permission ({{% resource_link c97c4766-bb7a-1f27-2c81-d8a24a439b2b "PDF" %}}). This summary presentation is based on: Whitt, Ward. "Improving Service by Informing Customers About Anticipated Delays." _Management Science_ 45, no. 2 (1999): 192-207.
 {{< tdclose >}}
 {{< tdopen >}}
 Huanran Wang
@@ -304,7 +308,7 @@ Huanran Wang
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Presentation courtesy of Stephen Shum. Used with permission ([PDF]({{< baseurl >}}/resources/lec21_shum)). This summary presentation is based on: Harrison, Michael J., and Assaf Zeevi. "A Method for Staffing Large Call Centers Based on Stochastic Fluid Models." Stanford, CA: Stanford University, 2003.
+Presentation courtesy of Stephen Shum. Used with permission ({{% resource_link 066aaf9d-8970-33bd-3493-b3f073b3df38 "PDF" %}}). This summary presentation is based on: Harrison, Michael J., and Assaf Zeevi. "A Method for Staffing Large Call Centers Based on Stochastic Fluid Models." Stanford, CA: Stanford University, 2003.
 {{< tdclose >}}
 {{< tdopen >}}
 Stephen Shum
@@ -316,7 +320,7 @@ Stephen Shum
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Presentation courtesy of Dan McCarthy. Used with permission ([PDF]({{< baseurl >}}/resources/lec22_mccarthy)). This summary presentation is based on: Pinker, Edieal J., and Robert A. Shumsky. "The Efficiency-Quality Trade-Off of Cross-Trained Workers." _Manufacturing and Service Operations Management_ 2, no. 1 (2000): 32-48.
+Presentation courtesy of Dan McCarthy. Used with permission ({{% resource_link 754e769e-2a0d-4ce0-8ca5-d994b9b0181e "PDF" %}}). This summary presentation is based on: Pinker, Edieal J., and Robert A. Shumsky. "The Efficiency-Quality Trade-Off of Cross-Trained Workers." _Manufacturing and Service Operations Management_ 2, no. 1 (2000): 32-48.
 {{< tdclose >}}
 {{< tdopen >}}
 Dan McCarthy

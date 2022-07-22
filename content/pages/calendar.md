@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 09a394a9-f1d7-ad25-9417-e5afd933bad4
 ---
 
-Since each class is based on the presentation and discussion of a paper, those titles are listed below. The [readings]({{< baseurl >}}/pages/readings) page offers full bibliographic citations.
+Since each class is based on the presentation and discussion of a paper, those titles are listed below. The {{% resource_link 85e48176-2fc2-7a08-ac77-a42e40464b25 "readings" %}} page offers full bibliographic citations.
 
 {{< tableopen >}}
 {{< theadopen >}}
