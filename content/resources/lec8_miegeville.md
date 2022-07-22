@@ -7,6 +7,7 @@ file: /courses/15-764-the-theory-of-operations-management-spring-2004/61f32ad8ac
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec8_miegeville.pdf
 uid: 61f32ad8-ac1b-cdeb-e34c-9bdbfdaff2ec
 ---
 Slides for lecture presentation. Presentation courtesy of Nicolas Miegeville. This summary presentation is based on: Wang, Y., and P. Glasserman. "Lead-time Inventory Trade-offs in Assemble-to-Order Systems." Operations Research 43, no. 6 (1998).
-

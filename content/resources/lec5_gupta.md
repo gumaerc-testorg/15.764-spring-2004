@@ -7,6 +7,7 @@ file: /courses/15-764-the-theory-of-operations-management-spring-2004/c4939fec8d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec5_gupta.pdf
 uid: c4939fec-8dd1-a833-ad8c-3864f449b8a5
 ---
 Presentation courtesy of Shobhit Gupta. This summary presentation is based on: Rosling, K. "Optimal Inventory Policies for Assembly Systems Under Random Demand." Operations Research 43, no. 6 (1989).
-

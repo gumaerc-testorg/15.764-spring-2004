@@ -8,6 +8,7 @@ file: /courses/15-764-the-theory-of-operations-management-spring-2004/2261475365
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lec13_li.pdf
 uid: 22614753-653b-00fe-85df-de4f6465850b
 ---
 Slides for lecture presentation. Presentation courtesy of Hongmin Li. This summary presentation is based on: Fisher, Marshall, and A. Raman. "Reducing the Cost of Demand Uncertainty Through Accurate Response to Early Sales." Operations Research 44, no. 1 (1996): 87-99.
-
