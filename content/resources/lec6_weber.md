@@ -5,6 +5,7 @@ description: 'Slides for lecture presentation. Presentation courtesy of Theophan
   "A Simple and Effective Component Procurement Policy for Stochastic Assembly Systems."
   Queueing Systems Theory and Applications 38, no. 2 (2001).'
 file: /courses/15-764-the-theory-of-operations-management-spring-2004/8bc74932288007996cda65324d6ba774_lec6_weber.pdf
+file_size: 122652
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

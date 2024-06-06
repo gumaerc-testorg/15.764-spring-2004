@@ -5,6 +5,7 @@ description: 'Slides for lecture presentation. Presentation courtesy of Ping Xu.
   Cost Optimization in Assemble-to-Order Systems." 2003. To appear in Operations Research
   .'
 file: /courses/15-764-the-theory-of-operations-management-spring-2004/7e65b5f67ebdb735f55d984413f56b84_lec7_xu.pdf
+file_size: 59634
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: 'Presentation courtesy of Guillaume Roels. This summary presentatio
   is based on: Kurawarwala, A., and H. Matsuo. "Forecasting and Inventory Management
   of Short Life-Cycle Products." Operations Research 44, no. 1 (1996): 131-50.'
 file: /courses/15-764-the-theory-of-operations-management-spring-2004/78850d019ec6509902c5043c1d8c0184_lec14_roels.pdf
+file_size: 114567
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
