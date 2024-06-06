@@ -5,6 +5,7 @@ description: 'Slides for lecture presentation. Presentation courtesy of Stephen 
   Method for Staffing Large Call Centers Based on Stochastic Fluid Models." Stanford,
   CA: Stanford University, 2003.'
 file: /courses/15-764-the-theory-of-operations-management-spring-2004/066aaf9d897033bd3493b3f073b3df38_lec21_shum.pdf
+file_size: 85074
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

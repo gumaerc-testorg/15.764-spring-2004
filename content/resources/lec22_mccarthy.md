@@ -5,6 +5,7 @@ description: 'Slides for lecture presentation. Presentation courtesy of Dan McCa
   "The Efficiency-Quality Trade-Off of Cross-Trained Workers." Manufacturing and Service
   Operations Management 2, no. 1 (2000): 32-48.'
 file: /courses/15-764-the-theory-of-operations-management-spring-2004/754e769e2a0d4ce08ca5d994b9b0181e_lec22_mccarthy.pdf
+file_size: 166392
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
