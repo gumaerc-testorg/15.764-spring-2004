@@ -4,7 +4,7 @@ description: 'Slides for lecture presentation. Presentation courtesy of Adrien d
   Chaisemartin. This summary presentation is based on: Fisher, Marshall, and Kumar
   Rajaram. "Accurate Retail Testing of Fashion Merchandise: Methodology and Application."
   Marketing Science 19, no. 3 (2000): 266-78.'
-file: /ol-ocw-studio-app/courses/15-764-the-theory-of-operations-management-spring-2004/0d0ff808d8dd8236b9614d116c0d0696_lec16_chaisemartin.pdf
+file: /courses/15-764-the-theory-of-operations-management-spring-2004/0d0ff808d8dd8236b9614d116c0d0696_lec16_chaisemartin.pdf
 file_size: 161598
 file_type: application/pdf
 learning_resource_types:
