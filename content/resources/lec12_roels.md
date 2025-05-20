@@ -4,7 +4,7 @@ description: 'Slides for lecture presentation. Presentation courtesy of Guillaum
   Roels. This summary presentation is based on: Toktay, Beryl L., and Lawrence M.
   Wein. "Analysis of a Forecasting-Production-Inventory System with Stationary Demand."
   Management Science 47, no. 9 (2001): 1268-81.'
-file: /ol-ocw-studio-app/courses/15-764-the-theory-of-operations-management-spring-2004/9593015c8b07d9b1e1903d17e68fcb55_lec12_roels.pdf
+file: /courses/15-764-the-theory-of-operations-management-spring-2004/9593015c8b07d9b1e1903d17e68fcb55_lec12_roels.pdf
 file_size: 92464
 file_type: application/pdf
 learning_resource_types:
